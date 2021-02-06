@@ -1,2 +1,3 @@
-# Vo7ice.github.io
-blog.me
+# About me
+ - 记录学习的过程
+ 
